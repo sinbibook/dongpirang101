@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-05-08T05:33:56.729699057Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-05-08T05:41:26.170196345Z",
     "templateType": "fullpage_visual",
     "propertyId": "9ef11e87-cbcc-48e3-975d-ef2b5c7dd48a",
     "homepageId": "8a3070a0-169f-4723-9094-054d3d3db6b1"
@@ -717,13 +717,22 @@
     "templateType": "fullpage_visual",
     "images": [
       {
-        "logo": [ ]
+        "logo": [
+          {
+            "id": "5870e291-360a-4102-9518-0fa21aa63f41",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8a3070a0-169f-4723-9094-054d3d3db6b1/logo/1778218838211-hdy11ekgs7.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "seo": {
-      "title": "",
-      "description": "",
-      "keywords": ""
+      "title": "통영 동피랑101 펜션",
+      "description": "통영의 감성을 가까이에서 즐기는 감성 스테이, 동피랑101",
+      "keywords": "통영펜션,통영숙소,통영동피랑101,통영여행"
     },
     "socialLinks": {
       "facebook": null,
