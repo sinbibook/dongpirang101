@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-05-08T05:43:03.260325802Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-05-08T05:48:37.062084225Z",
     "templateType": "fullpage_visual",
     "propertyId": "9ef11e87-cbcc-48e3-975d-ef2b5c7dd48a",
     "homepageId": "8a3070a0-169f-4723-9094-054d3d3db6b1"
@@ -76,7 +76,80 @@
         "description": "'인생타로&카페'에서 즐거운 시간을 보내보세요.",
         "usageGuide": "[타로카페]\n- 펜션 내 '인생타로&카페'가 있습니다. ",
         "displayOrder": 0,
-        "images": [ ]
+        "images": [
+          {
+            "id": "0769fae1-44d3-4f73-8d37-d1253ab0c645",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/39c2bdb8-875e-4aa7-86a8-b7f9c751078c/main/1778219304078-sfirpuihb3.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "c76f2a23-e50c-4f06-b140-dbcde864e784",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/39c2bdb8-875e-4aa7-86a8-b7f9c751078c/main/1778219304171-68eiko3mjc.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "13b4ee65-f6af-40f2-aa50-e9e259eb9b76",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/39c2bdb8-875e-4aa7-86a8-b7f9c751078c/main/1778219304182-anx5kor5di.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "d17bc19a-f04d-4c32-b056-4af4fe114360",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/39c2bdb8-875e-4aa7-86a8-b7f9c751078c/main/1778219303978-ceyftnnkek.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "dac52c39-21ff-4634-9415-f4ef6b90ea2e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/39c2bdb8-875e-4aa7-86a8-b7f9c751078c/main/1778219303981-c0ka4y3tgs.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1e632fe6-06a2-4f52-aca5-faccda817d39",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/39c2bdb8-875e-4aa7-86a8-b7f9c751078c/main/1778219304083-sk4t3m4qsy.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "a13698a4-e8c2-4d80-aafb-bd20495d005c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/39c2bdb8-875e-4aa7-86a8-b7f9c751078c/main/1778219304086-bgtozjqufz.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "585892de-6974-435a-bbe2-a5f8ac83bfa6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/39c2bdb8-875e-4aa7-86a8-b7f9c751078c/main/1778219304261-oopjlu6rg1.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "875cbcf1-ac11-4250-8c1a-40083bad815d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/39c2bdb8-875e-4aa7-86a8-b7f9c751078c/main/1778219304179-ziywxk1t1m.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "df53052b-d986-4313-a338-6017e39e8d9d",
@@ -84,7 +157,48 @@
         "description": "동피랑 101의 편의시설을 소개합니다. ",
         "usageGuide": "[편의시설]\n- 엘리베이터\n- 무료 Wi-Fi\n- 전 객실 금연\n\n[주차장]\n- 주차장 보유",
         "displayOrder": 1,
-        "images": [ ]
+        "images": [
+          {
+            "id": "7c866e3b-820b-43d0-88f0-991bf328d0c5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/df53052b-d986-4313-a338-6017e39e8d9d/main/1778219305972-eqb8391g37.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "9c63359c-142c-43bb-bd9c-c9b8600ce70d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/df53052b-d986-4313-a338-6017e39e8d9d/main/1778219306067-mdj4oehnw8.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "419030a8-a736-4b88-930b-58d24765740b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/df53052b-d986-4313-a338-6017e39e8d9d/main/1778219306056-ewulpejxes.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "9c9e62b3-4ec1-41d6-b2c4-a633eb9bcdac",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/df53052b-d986-4313-a338-6017e39e8d9d/main/1778219306069-duk0eaytut.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "7c16bdae-3cb4-4553-b493-f303596cb0e2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/df53052b-d986-4313-a338-6017e39e8d9d/main/1778219306152-obs94x0jvg.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "refundPolicies": [
