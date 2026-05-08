@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-05-08T07:30:37.319325996Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-05-08T07:37:26.738101625Z",
     "templateType": "fullpage_visual",
     "propertyId": "9ef11e87-cbcc-48e3-975d-ef2b5c7dd48a",
     "homepageId": "8a3070a0-169f-4723-9094-054d3d3db6b1"
@@ -250,8 +250,98 @@
     },
     "images": [
       {
-        "thumbnail": [ ],
-        "exterior": [ ],
+        "thumbnail": [
+          {
+            "id": "a48b8a11-a71b-4c4a-b1aa-6d2b3bdffb0c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ef11e87-cbcc-48e3-975d-ef2b5c7dd48a/thumbnail/1778225520461-3d6dk5o3xq.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "exterior": [
+          {
+            "id": "47f8122a-2574-434b-af32-4b83835c3778",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ef11e87-cbcc-48e3-975d-ef2b5c7dd48a/exterior/1778225520495-x8e740in48.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "bac19866-d2dc-44c4-a4b9-c62eb1e1eafb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ef11e87-cbcc-48e3-975d-ef2b5c7dd48a/exterior/1778225520465-a7yyq3ic8b.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "377e9f30-e574-4e44-98f2-b381d9f38c8f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ef11e87-cbcc-48e3-975d-ef2b5c7dd48a/exterior/1778225520472-kp7rxd0ddw.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "0a32e077-fd12-4dbf-a918-ea49a7f12246",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ef11e87-cbcc-48e3-975d-ef2b5c7dd48a/exterior/1778225520465-5a03q1goj3.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "450e7db7-96cc-4ec1-9b60-fce7b83ef7bc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ef11e87-cbcc-48e3-975d-ef2b5c7dd48a/exterior/1778225520479-0dl0xs1q5a.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "c1b28de2-d94b-471b-abba-f5fc7d28a2bc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ef11e87-cbcc-48e3-975d-ef2b5c7dd48a/exterior/1778225520477-9nu5527oqw.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "08c2d85f-a6fa-4848-8635-d58820564c23",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ef11e87-cbcc-48e3-975d-ef2b5c7dd48a/exterior/1778225520492-swmudkn80l.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "fd6b7682-2188-4201-b6a6-cc27d670664d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ef11e87-cbcc-48e3-975d-ef2b5c7dd48a/exterior/1778225520567-4rimw8ydsi.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b56c26c4-a7bb-4295-abca-8eaba936a4ac",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ef11e87-cbcc-48e3-975d-ef2b5c7dd48a/exterior/1778225520507-tte0muga69.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "7684341e-cfa8-45b3-a47b-f400980dcec5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/9ef11e87-cbcc-48e3-975d-ef2b5c7dd48a/exterior/1778225520563-a8b53oujhp.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
         "surrounding": [ ],
         "commonArea": [ ]
       }
@@ -263,7 +353,7 @@
       "name": "101호",
       "description": "분리형 : 거실 겸 주방+침대룸A(퀸1)+화장실",
       "roomInfo": "",
-      "usageGuide": "",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 (24개월 미만 영유아 무료) \n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": null,
       "size": 33.06,
       "baseOccupancy": 2,
@@ -323,7 +413,7 @@
       "name": "201호",
       "description": "분리형 : 거실 겸 주방+침대룸A(퀸2)+화장실",
       "roomInfo": "",
-      "usageGuide": "",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 (24개월 미만 영유아 무료) \n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": null,
       "size": 49.59,
       "baseOccupancy": 2,
@@ -383,7 +473,7 @@
       "name": "202(취사불가)",
       "description": "침대룸A(퀸1)+화장실",
       "roomInfo": "",
-      "usageGuide": "TV, 와인셀러, 에어컨, 샴푸,린스,바디, 전자레인지",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 (24개월 미만 영유아 무료) \n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": null,
       "size": 26.45,
       "baseOccupancy": 2,
@@ -439,7 +529,7 @@
       "name": "203(취사불가)",
       "description": "침대룸A(퀸1)+화장실",
       "roomInfo": "",
-      "usageGuide": "TV, 와인셀러, 에어컨, 샴푸,린스,바디, 전자레인지",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 (24개월 미만 영유아 무료) \n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": null,
       "size": 26.45,
       "baseOccupancy": 2,
@@ -495,7 +585,7 @@
       "name": "204(취사불가)",
       "description": "거실+침대룸A(퀸1)+온돌룸+화장실",
       "roomInfo": "",
-      "usageGuide": "TV, 와인셀러, 에어컨, 샴푸,린스,바디, 전자레인지",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 (24개월 미만 영유아 무료) \n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": null,
       "size": 66.12,
       "baseOccupancy": 2,
@@ -551,7 +641,7 @@
       "name": "205(취사불가)",
       "description": "침대룸A(퀸1)+화장실",
       "roomInfo": "",
-      "usageGuide": "TV, 와인셀러, 에어컨, 샴푸,린스,바디, 전자레인지",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 (24개월 미만 영유아 무료) \n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": null,
       "size": 33.06,
       "baseOccupancy": 2,
@@ -607,7 +697,7 @@
       "name": "206(취사불가,테라스)",
       "description": "침대룸A(퀸1)+화장실",
       "roomInfo": "",
-      "usageGuide": "TV, 와인셀러, 에어컨, 샴푸,린스,바디, 전자레인지",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 (24개월 미만 영유아 무료) \n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": null,
       "size": 26.45,
       "baseOccupancy": 2,
@@ -663,7 +753,7 @@
       "name": "207(취사불가,테라스)",
       "description": "침대룸A(퀸1)+화장실",
       "roomInfo": "",
-      "usageGuide": "TV, 와인셀러, 에어컨, 샴푸,린스,바디, 전자레인지",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 (24개월 미만 영유아 무료) \n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": null,
       "size": 26.45,
       "baseOccupancy": 2,
@@ -719,7 +809,7 @@
       "name": "208(취사불가,테라스)",
       "description": "침대룸A(퀸1)+화장실",
       "roomInfo": "",
-      "usageGuide": "TV, 와인셀러, 에어컨, 샴푸,린스,바디, 전자레인지",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 (24개월 미만 영유아 무료) \n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": null,
       "size": 26.45,
       "baseOccupancy": 2,
@@ -775,7 +865,7 @@
       "name": "301호",
       "description": "거실 겸 주방+침대룸A(퀸1)+침대룸B(퀸1)+화장실",
       "roomInfo": "",
-      "usageGuide": "TV, 와인셀러, 에어컨, 샴푸,린스,바디, 전자레인지",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 (24개월 미만 영유아 무료) \n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": null,
       "size": 66.12,
       "baseOccupancy": 2,
