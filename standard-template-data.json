@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-05-08T07:37:26.738101625Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-05-08T07:44:05.192639069Z",
     "templateType": "fullpage_visual",
     "propertyId": "9ef11e87-cbcc-48e3-975d-ef2b5c7dd48a",
     "homepageId": "8a3070a0-169f-4723-9094-054d3d3db6b1"
@@ -1172,7 +1172,102 @@
                 ],
                 "description": " "
               },
-              "about": [ ]
+              "about": [
+                {
+                  "title": "통영여행의 최적의 인프라",
+                  "images": [
+                    {
+                      "id": "2dd9229f-195f-48e2-9ebf-271af1c93d68",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8a3070a0-169f-4723-9094-054d3d3db6b1/main_about/1778225994496-71t16ui9xy.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6af4bee4-0c1d-47ef-a533-9adb88fa943b"
+                    },
+                    {
+                      "id": "0e34f010-9f87-40ac-9d0e-54d1313ca2b3",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8a3070a0-169f-4723-9094-054d3d3db6b1/main_about/1778225994480-h8l1217te6.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6af4bee4-0c1d-47ef-a533-9adb88fa943b"
+                    },
+                    {
+                      "id": "ecbad54b-200a-4cd4-9742-bb74486ff109",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8a3070a0-169f-4723-9094-054d3d3db6b1/main_about/1778225994466-24rqwxqr8u.jpg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6af4bee4-0c1d-47ef-a533-9adb88fa943b"
+                    },
+                    {
+                      "id": "a9dfcfc3-929f-43c2-897a-3217d052efe1",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8a3070a0-169f-4723-9094-054d3d3db6b1/main_about/1778225994494-cupx6vxz0b.jpg",
+                      "sortOrder": 3,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6af4bee4-0c1d-47ef-a533-9adb88fa943b"
+                    },
+                    {
+                      "id": "2639e14b-1c1f-46db-9468-b28c6e6a1a0b",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8a3070a0-169f-4723-9094-054d3d3db6b1/main_about/1778225994489-dsdoo1kuer.jpg",
+                      "sortOrder": 4,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6af4bee4-0c1d-47ef-a533-9adb88fa943b"
+                    }
+                  ],
+                  "blockId": "6af4bee4-0c1d-47ef-a533-9adb88fa943b",
+                  "description": ""
+                },
+                {
+                  "title": "모던한 인테리어 객실",
+                  "images": [
+                    {
+                      "id": "81d776c2-1b46-4ba8-8fd3-19f32c550b51",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8a3070a0-169f-4723-9094-054d3d3db6b1/main_about/1778226217794-t9knizzl75.jpg",
+                      "sortOrder": 5,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "beb1ffeb-3d2a-4da0-a4ce-5aba5719aef5"
+                    },
+                    {
+                      "id": "77688d62-4574-4f64-8ec9-42f1b1181e3e",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8a3070a0-169f-4723-9094-054d3d3db6b1/main_about/1778226217871-say46stvjp.jpg",
+                      "sortOrder": 6,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "beb1ffeb-3d2a-4da0-a4ce-5aba5719aef5"
+                    },
+                    {
+                      "id": "717aeb70-cc40-4ce7-a0e8-f89f1e6d0173",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8a3070a0-169f-4723-9094-054d3d3db6b1/main_about/1778226217867-mj18fptm7e.jpg",
+                      "sortOrder": 7,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "beb1ffeb-3d2a-4da0-a4ce-5aba5719aef5"
+                    },
+                    {
+                      "id": "6bdd207e-47aa-42e2-bf54-58baf7e46529",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8a3070a0-169f-4723-9094-054d3d3db6b1/main_about/1778226217870-fr5m8rfdcg.jpg",
+                      "sortOrder": 8,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "beb1ffeb-3d2a-4da0-a4ce-5aba5719aef5"
+                    },
+                    {
+                      "id": "4db780e9-b587-4c9b-a59c-4ed0ca22d65f",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8a3070a0-169f-4723-9094-054d3d3db6b1/main_about/1778226217873-gudo5yrjy3.jpg",
+                      "sortOrder": 9,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "beb1ffeb-3d2a-4da0-a4ce-5aba5719aef5"
+                    }
+                  ],
+                  "blockId": "beb1ffeb-3d2a-4da0-a4ce-5aba5719aef5",
+                  "description": "모던하고 깔끔한 인테리어로 편안한 분위기를 더한 공간\n아늑한 무드와 트렌디한 감성이 어우러져 \n더욱 특별한 시간을 만들어줍니다.\n머무는 순간까지 기분 좋게 완성되는 감성 스테이입니다."
+                }
+              ]
             }
           ]
         },
