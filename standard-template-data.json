@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2026-05-12T02:02:14.273976287Z",
+    "version": "1.11.0",
+    "generatedAt": "2026-05-12T03:03:15.225931060Z",
     "templateType": "fullpage_visual",
     "propertyId": "9ef11e87-cbcc-48e3-975d-ef2b5c7dd48a",
     "homepageId": "8a3070a0-169f-4723-9094-054d3d3db6b1"
@@ -199,6 +199,14 @@
             "blockId": null
           }
         ]
+      },
+      {
+        "id": "54de062c-f6cf-452a-9bbe-c7d8603e3258",
+        "name": "동피랑101 식당",
+        "description": "- 펜션 건물 내 '동피랑101' 식당이 있습니다. ",
+        "usageGuide": "[펜션 내 식당]\n- 펜션 건물 내 '동피랑101' 식당이 있습니다. ",
+        "displayOrder": 2,
+        "images": [ ]
       }
     ],
     "refundPolicies": [
@@ -351,7 +359,7 @@
     {
       "id": "45c9fdf8-3479-4735-9451-fb62e11f98f2",
       "name": "101호",
-      "description": "분리형 : 거실 겸 주방+침대룸A(퀸1)+화장실",
+      "description": "분리형 : 거실 겸 주방+침대룸A(퀸1)+침대룸B(퀸1)+화장실",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 10,000원 (1박기준/현장결제)\n※ 영유아 인원수 포함/최대인원 초과불가",
       "group": null,
@@ -359,7 +367,7 @@
       "baseOccupancy": 6,
       "maxOccupancy": 10,
       "totalRoomCount": {
-        "bedroom": 1,
+        "bedroom": 2,
         "bathroom": 1,
         "livingRoom": 1,
         "ondol": 0,
@@ -368,7 +376,36 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 1,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        },
+        {
+          "roomIndex": 2,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 1,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
         "침대",
         "스마트 TV",
@@ -412,7 +449,7 @@
     {
       "id": "4a7fc6aa-e619-4eae-8492-95805f227c8d",
       "name": "201호",
-      "description": "분리형 : 거실 겸 주방+침대룸A(퀸2)+화장실",
+      "description": "분리형 : 거실 겸 주방+침대룸A(퀸2)+온돌룸+화장실",
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 10,000원 (1박기준/현장결제)\n※ 영유아 인원수 포함/최대인원 초과불가",
       "group": null,
@@ -423,13 +460,42 @@
         "bedroom": 1,
         "bathroom": 1,
         "livingRoom": 1,
-        "ondol": 0,
+        "ondol": 1,
         "kitchen": 1
       },
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 1,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        },
+        {
+          "roomIndex": 1,
+          "roomKind": "ondol",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
         "침대",
         "스마트 TV",
@@ -475,7 +541,7 @@
       "name": "202(취사불가)",
       "description": "침대룸A(퀸1)+화장실",
       "roomInfo": "",
-      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 (24개월 미만 영유아 무료) \n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 10,000원 (1박기준/현장결제)\n※ 영유아 인원수 포함/최대인원 초과불가",
       "group": null,
       "size": 33.06,
       "baseOccupancy": 2,
@@ -490,7 +556,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "스마트 TV",
