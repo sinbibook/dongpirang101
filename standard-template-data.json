@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-05-08T07:44:24.386686054Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-05-12T02:02:14.273976287Z",
     "templateType": "fullpage_visual",
     "propertyId": "9ef11e87-cbcc-48e3-975d-ef2b5c7dd48a",
     "homepageId": "8a3070a0-169f-4723-9094-054d3d3db6b1"
   },
   "property": {
     "id": "9ef11e87-cbcc-48e3-975d-ef2b5c7dd48a",
-    "name": "통영 동피랑101 펜션",
-    "nameEn": "Tongyeong Dongpirang 101 Pension",
+    "name": "통영 동피랑 스테이 H",
+    "nameEn": "Tongyeong Dongpirang Stay H",
     "description": "",
     "subtitle": "통영 동피랑101 펜션",
     "address": "경상남도 통영시 동피랑길 101(태평동)",
@@ -20,12 +20,12 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입/퇴실 안내]\n- 입실시각: 15시\n- 퇴실시각: 11시\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.",
-    "usageGuide": "[펜션 이용 안내 사항]\n- 미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n- 객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n- 이용시설 및 이용자의 물품/귀중품 분실 및 훼손은 이용자 책임으로 주의바랍니다. \n- 전 객실 금연\n- 퇴실시 쓰레기는 분리수거 부탁드립니다. \n\n[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 (24개월 미만 영유아 무료) \n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제\n\n[타로카페]\n- 펜션 내 '인생타로&카페'가 있습니다. \n\n[편의시설]\n- 엘리베이터\n- 무료 Wi-Fi\n- 전 객실 금연\n\n[주차장]\n- 주차장 보유\n\n[주변관광지]\n- 동피랑벽화마을\n- 강구안\n- 서호시장\n- 통영항 여객선터미널",
-    "reservationGuide": "미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n최대 인원 초과 시 입실 불가하며, 이로 인한 환불은 불가입니다. (유아, 어린이 포함)\n현장 추가 요금은 숙소 측에 사전 확인 바랍니다.\n수영장 등 부대시설은 날씨나 상황에 따라 이용이 제한될 수 있으니 사전 확인 바랍니다.\n당일 예약 후 취소 시 환불 불가하며, 늦은 시간 당일 예약 후 즉시 방문 시 입실 불가할 수 있으니 숙소 확인 후 예약해 주세요.\n취소 수수료는 구매처마다 다를 수 있습니다.\n시스템 오류로 인해 정상가와 다른 금액으로 예약이 진행된 경우, 부득이하게 예약이 취소될 수 있습니다.\n전 객실 금연이며, 흡연은 지정된 장소에서만 가능합니다.",
+    "usageGuide": "[펜션 이용 안내 사항]\n- 미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n- 객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n- 이용시설 및 이용자의 물품/귀중품 분실 및 훼손은 이용자 책임으로 주의바랍니다. \n- 바베큐 불가\n- 전 객실 금연\n- 퇴실시 쓰레기는 분리수거 부탁드립니다. \n\n[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 10,000원 (1박기준/현장결제)\n※ 영유아 인원수 포함/최대인원 초과불가\n\n[펜션 내 식당]\n- 펜션 건물 내 '동피랑101' 식당이 있습니다. \n\n[타로카페]\n- 펜션 내 '인생타로&카페'가 있습니다. \n\n[편의시설]\n- 엘리베이터\n- 무료 Wi-Fi\n- 전 객실 금연\n\n[주차장]\n- 주차장 보유\n\n[주변관광지]\n- 동피랑벽화마을\n- 강구안\n- 서호시장\n- 통영항 여객선터미널",
+    "reservationGuide": "미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n최대 인원 초과 시 입실 불가하며, 이로 인한 환불은 불가입니다. (유아, 어린이 포함)\n현장 추가 요금은 숙소 측에 사전 확인 바랍니다.\n부대시설은 날씨나 상황에 따라 이용이 제한될 수 있으니 사전 확인 바랍니다.\n당일 예약 후 취소 시 환불 불가하며, 늦은 시간 당일 예약 후 즉시 방문 시 입실 불가할 수 있으니 숙소 확인 후 예약해 주세요.\n취소 수수료는 구매처마다 다를 수 있습니다.\n시스템 오류로 인해 정상가와 다른 금액으로 예약이 진행된 경우, 부득이하게 예약이 취소될 수 있습니다.\n전 객실 금연이며, 흡연은 지정된 장소에서만 가능합니다.",
     "province": "경상남도",
     "city": "통영시",
     "domain": "dongpirang101.kr",
-    "realtimeBookingId": "-",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/12071",
     "ybsId": "",
     "amenities": [ ],
     "nearbyAttractions": [
@@ -43,14 +43,14 @@
       "펜션"
     ],
     "businessInfo": {
-      "businessName": "통영동피랑101",
-      "businessNumber": "475-39-01260",
-      "representativeName": "배성환외 4명",
+      "businessName": "동피랑스테이.H",
+      "businessNumber": "456-29-01896",
+      "representativeName": "권형주외 4명",
       "businessAddress": "경상남도 통영시 동피랑길 101(태평동)",
       "businessPhone": "010-2414-0083",
       "businessEmail": "skkukhjj@naver.com",
       "businessType": "individual",
-      "businessCategory": "부동산업",
+      "businessCategory": "숙박업",
       "eCommerceRegistrationNumber": "",
       "ecommerceRegistrationNumber": ""
     },
@@ -353,11 +353,11 @@
       "name": "101호",
       "description": "분리형 : 거실 겸 주방+침대룸A(퀸1)+화장실",
       "roomInfo": "",
-      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 (24개월 미만 영유아 무료) \n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 10,000원 (1박기준/현장결제)\n※ 영유아 인원수 포함/최대인원 초과불가",
       "group": null,
-      "size": 33.06,
-      "baseOccupancy": 2,
-      "maxOccupancy": 3,
+      "size": 72.73,
+      "baseOccupancy": 6,
+      "maxOccupancy": 10,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
@@ -368,6 +368,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "스마트 TV",
@@ -413,11 +414,11 @@
       "name": "201호",
       "description": "분리형 : 거실 겸 주방+침대룸A(퀸2)+화장실",
       "roomInfo": "",
-      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 (24개월 미만 영유아 무료) \n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 10,000원 (1박기준/현장결제)\n※ 영유아 인원수 포함/최대인원 초과불가",
       "group": null,
-      "size": 49.59,
-      "baseOccupancy": 2,
-      "maxOccupancy": 4,
+      "size": 92.56,
+      "baseOccupancy": 6,
+      "maxOccupancy": 10,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
@@ -428,6 +429,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "스마트 TV",
@@ -475,9 +477,9 @@
       "roomInfo": "",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 (24개월 미만 영유아 무료) \n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
       "group": null,
-      "size": 26.45,
+      "size": 33.06,
       "baseOccupancy": 2,
-      "maxOccupancy": 3,
+      "maxOccupancy": 2,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
@@ -488,6 +490,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "스마트 TV",
@@ -529,11 +532,11 @@
       "name": "203(취사불가)",
       "description": "침대룸A(퀸1)+화장실",
       "roomInfo": "",
-      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 (24개월 미만 영유아 무료) \n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 10,000원 (1박기준/현장결제)\n※ 영유아 인원수 포함/최대인원 초과불가",
       "group": null,
-      "size": 26.45,
+      "size": 33.06,
       "baseOccupancy": 2,
-      "maxOccupancy": 3,
+      "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
@@ -544,6 +547,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "스마트 TV",
@@ -585,11 +589,11 @@
       "name": "204(취사불가)",
       "description": "거실+침대룸A(퀸1)+온돌룸+화장실",
       "roomInfo": "",
-      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 (24개월 미만 영유아 무료) \n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 10,000원 (1박기준/현장결제)\n※ 영유아 인원수 포함/최대인원 초과불가",
       "group": null,
-      "size": 66.12,
-      "baseOccupancy": 2,
-      "maxOccupancy": 4,
+      "size": 46.28,
+      "baseOccupancy": 4,
+      "maxOccupancy": 6,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
@@ -600,6 +604,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "스마트 TV",
@@ -638,14 +643,14 @@
     },
     {
       "id": "4308e470-9d18-451c-b7e0-c50c53eba8e0",
-      "name": "205(취사불가)",
+      "name": "205(취사불가,테라스)",
       "description": "침대룸A(퀸1)+화장실",
       "roomInfo": "",
-      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 (24개월 미만 영유아 무료) \n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 10,000원 (1박기준/현장결제)\n※ 영유아 인원수 포함/최대인원 초과불가",
       "group": null,
       "size": 33.06,
       "baseOccupancy": 2,
-      "maxOccupancy": 3,
+      "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
@@ -656,6 +661,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "스마트 TV",
@@ -697,11 +703,11 @@
       "name": "206(취사불가,테라스)",
       "description": "침대룸A(퀸1)+화장실",
       "roomInfo": "",
-      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 (24개월 미만 영유아 무료) \n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 10,000원 (1박기준/현장결제)\n※ 영유아 인원수 포함/최대인원 초과불가",
       "group": null,
-      "size": 26.45,
+      "size": 33.06,
       "baseOccupancy": 2,
-      "maxOccupancy": 3,
+      "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
@@ -712,6 +718,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "스마트 TV",
@@ -753,11 +760,11 @@
       "name": "207(취사불가,테라스)",
       "description": "침대룸A(퀸1)+화장실",
       "roomInfo": "",
-      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 (24개월 미만 영유아 무료) \n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 10,000원 (1박기준/현장결제)\n※ 영유아 인원수 포함/최대인원 초과불가",
       "group": null,
-      "size": 26.45,
+      "size": 33.06,
       "baseOccupancy": 2,
-      "maxOccupancy": 3,
+      "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
@@ -768,6 +775,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "스마트 TV",
@@ -809,11 +817,11 @@
       "name": "208(취사불가,테라스)",
       "description": "침대룸A(퀸1)+화장실",
       "roomInfo": "",
-      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 (24개월 미만 영유아 무료) \n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 10,000원 (1박기준/현장결제)\n※ 영유아 인원수 포함/최대인원 초과불가",
       "group": null,
-      "size": 26.45,
+      "size": 33.06,
       "baseOccupancy": 2,
-      "maxOccupancy": 3,
+      "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
@@ -824,6 +832,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "스마트 TV",
@@ -865,11 +874,11 @@
       "name": "301호",
       "description": "거실 겸 주방+침대룸A(퀸1)+침대룸B(퀸1)+화장실",
       "roomInfo": "",
-      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 20,000원 (24개월 미만 영유아 무료) \n※ 영유아 인원수 포함/최대인원 초과불가\n※ 1박기준/현장결제",
+      "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 인원추가 : 1인 10,000원 (1박기준/현장결제)\n※ 영유아 인원수 포함/최대인원 초과불가",
       "group": null,
-      "size": 66.12,
-      "baseOccupancy": 2,
-      "maxOccupancy": 4,
+      "size": 72.73,
+      "baseOccupancy": 6,
+      "maxOccupancy": 10,
       "totalRoomCount": {
         "bedroom": 2,
         "bathroom": 1,
@@ -880,6 +889,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "스마트 TV",
@@ -1305,6 +1315,12 @@
               }
             }
           ]
+        },
+        "layoutMap": {
+          "sections": [ ]
+        },
+        "nearbyAttractions": {
+          "sections": [ ]
         }
       },
       "popup": {
@@ -1337,7 +1353,7 @@
         }
       },
       "property": {
-        "name": "통영 동피랑101 펜션",
+        "name": "통영 동피랑 스테이 H",
         "images": [
           {
             "id": "3b99a019-3304-4922-b673-cd765c6299b4",
@@ -1439,7 +1455,7 @@
             "category": "property_exterior"
           }
         ],
-        "nameEn": "Tongyeong Dongpirang 101 Pension"
+        "nameEn": "Tongyeong Dongpirang Stay H"
       },
       "roomtypes": [
         {
