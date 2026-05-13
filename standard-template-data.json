@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.19.0",
-    "generatedAt": "2026-05-12T08:32:18.619135217Z",
+    "version": "1.20.0",
+    "generatedAt": "2026-05-13T00:40:36.151907284Z",
     "templateType": "fullpage_visual",
     "propertyId": "9ef11e87-cbcc-48e3-975d-ef2b5c7dd48a",
     "homepageId": "8a3070a0-169f-4723-9094-054d3d3db6b1"
@@ -1026,7 +1026,7 @@
           "sections": [
             {
               "hero": {
-                "title": "Ocean Mood at Dongpirang 101",
+                "title": "Ocean Mood at Dongpirang stay H",
                 "images": [
                   {
                     "id": "be894f88-7598-4fb8-a304-f0d34cfd8066",
@@ -1119,7 +1119,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": "통영 동피랑101 펜션"
+                "description": "통영 동피랑스테이.H 펜션"
               },
               "closing": {
                 "title": "A Peaceful Night in Tongyeong",
