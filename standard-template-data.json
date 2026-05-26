@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.25.0",
-    "generatedAt": "2026-05-18T05:23:37.465186196Z",
+    "version": "1.26.0",
+    "generatedAt": "2026-05-26T01:23:10.815898788Z",
     "templateType": "fullpage_visual",
     "propertyId": "9ef11e87-cbcc-48e3-975d-ef2b5c7dd48a",
     "homepageId": "8a3070a0-169f-4723-9094-054d3d3db6b1"
@@ -10,8 +10,8 @@
     "id": "9ef11e87-cbcc-48e3-975d-ef2b5c7dd48a",
     "name": "통영 동피랑 스테이.H",
     "nameEn": "Tongyeong Dongpirang Stay.H",
-    "description": "",
-    "subtitle": "통영 동피랑101 펜션",
+    "description": "통영펜션,통영숙소,통영커플펜션,통영가족펜션,통영여행,동피랑펜션,동피랑벽화마을펜션,통영게스트하우스,통영가성비펜션,통영힐링펜션",
+    "subtitle": "통영 동피랑 스테이.H",
     "address": "경남 통영시 동피랑길 101",
     "latitude": 34.8455982939867,
     "longitude": 128.425697724593,
@@ -199,14 +199,6 @@
             "blockId": null
           }
         ]
-      },
-      {
-        "id": "54de062c-f6cf-452a-9bbe-c7d8603e3258",
-        "name": "동피랑101 식당",
-        "description": "- 펜션 건물 내 '동피랑101' 식당이 있습니다. ",
-        "usageGuide": "[펜션 내 식당]\n- 펜션 건물 내 '동피랑101' 식당이 있습니다. ",
-        "displayOrder": 2,
-        "images": [ ]
       }
     ],
     "refundPolicies": [
