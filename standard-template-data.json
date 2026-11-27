@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.40.0",
-    "generatedAt": "2026-11-12T01:18:11.275133546Z",
+    "version": "1.41.0",
+    "generatedAt": "2026-11-27T01:05:38.027784222Z",
     "templateType": "fullpage_visual",
     "propertyId": "9ef11e87-cbcc-48e3-975d-ef2b5c7dd48a",
     "homepageId": "8a3070a0-169f-4723-9094-054d3d3db6b1"
@@ -22,8 +22,8 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.",
-    "usageGuide": "[펜션 이용 안내 사항]\n- 강아지, 고양이 등 반려동물 동반입실 금지\n- 추가비용은 선결제이며, 현장결제는 불가할 수 있습니다.\n- 미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n- 객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n- 이용시설 및 이용자의 물품/귀중품 분실 및 훼손은 이용자 책임으로 주의바랍니다. \n- 바베큐 불가\n- 전 객실 금연\n- 퇴실시 쓰레기는 분리수거 부탁드립니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 15,000원, 아동 1인 15,000원, 유아 1인 15,000원\n(1박기준/현장결제)\n- 인원추가 : 1인 15,000원 (1박기준/이체결제)\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 현장 인원이 상주하지 않아 현장결제 불가할 수 있습니다.\n\n[부대시설]\n[펜션 내 식당]\n- 펜션 건물 내 '동피랑101' 식당이 있습니다. \n\n[타로카페]\n- 펜션 내 '인생타로&카페'가 있습니다.\n\n[편의 및 주변 시설]\n- 엘리베이터\n- 무료 Wi-Fi\n- 전 객실 금연\n\n[주변관광지]\n- 동피랑벽화마을\n- 강구안\n- 서호시장\n- 통영항 여객선터미널\n\n[주차장]\n- 옥상 주차장 보유",
-    "reservationGuide": "[펜션 이용 안내 사항]\n- 강아지, 고양이 등 반려동물 동반입실 금지\n- 추가비용은 선결제이며, 현장결제는 불가할 수 있습니다.\n- 미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n- 객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n- 이용시설 및 이용자의 물품/귀중품 분실 및 훼손은 이용자 책임으로 주의바랍니다. \n- 바베큐 불가\n- 전 객실 금연\n- 퇴실시 쓰레기는 분리수거 부탁드립니다.",
+    "usageGuide": "[펜션 이용 안내 사항]\n- 강아지, 고양이 등 반려동물 동반입실 금지\n- 추가비용은 선결제이며, 현장결제는 불가할 수 있습니다.\n- 미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n- 객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n- 이용시설 및 이용자의 물품/귀중품 분실 및 훼손은 이용자 책임으로 주의바랍니다. \n- 바베큐 불가\n- 전 객실 금연\n- 퇴실시 쓰레기는 분리수거 부탁드립니다. \n※ 202호,203호는 창문이 없는 객실입니다. 이용시 참고 부탁드립니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 15,000원, 아동 1인 15,000원, 유아 1인 15,000원\n(1박기준/현장결제)\n- 인원추가 : 1인 15,000원 (1박기준/이체결제)\n※ 영유아 인원수 포함/최대인원 초과불가\n※ 현장 인원이 상주하지 않아 현장결제 불가할 수 있습니다.\n\n[부대시설]\n[펜션 내 식당]\n- 펜션 건물 내 '동피랑101' 식당이 있습니다. \n\n[타로카페]\n- 펜션 내 '인생타로&카페'가 있습니다.\n\n[편의 및 주변 시설]\n- 엘리베이터\n- 무료 Wi-Fi\n- 전 객실 금연\n\n[주변관광지]\n- 동피랑벽화마을\n- 강구안\n- 서호시장\n- 통영항 여객선터미널\n\n[주차장]\n- 옥상 주차장 보유",
+    "reservationGuide": "[펜션 이용 안내 사항]\n- 강아지, 고양이 등 반려동물 동반입실 금지\n- 추가비용은 선결제이며, 현장결제는 불가할 수 있습니다.\n- 미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n- 객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n- 이용시설 및 이용자의 물품/귀중품 분실 및 훼손은 이용자 책임으로 주의바랍니다. \n- 바베큐 불가\n- 전 객실 금연\n- 퇴실시 쓰레기는 분리수거 부탁드립니다. \n※ 202호,203호는 창문이 없는 객실입니다. 이용시 참고 부탁드립니다.",
     "province": "경상남도",
     "city": "통영시",
     "domain": "dongpirang101.kr",
@@ -821,7 +821,7 @@
         {
           "thumbnail": [
             {
-              "id": "01a1cd54-fe15-7299-b587-ca43317fc95d",
+              "id": "01a1cd62-dd96-789d-a58a-b60704219932",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/2kqQobJt9peT.jpg",
               "sortOrder": 1,
               "description": "",
@@ -831,7 +831,7 @@
           ],
           "interior": [
             {
-              "id": "01a1cd54-fe15-761a-9270-23cace935afc",
+              "id": "01a1cd62-dd96-7d3a-a686-dd1813118d46",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/JwbDl4W51gfO.jpg",
               "sortOrder": 2,
               "description": "",
@@ -839,7 +839,7 @@
               "blockId": null
             },
             {
-              "id": "01a1cd54-fe15-7dc7-85b6-765778337d9d",
+              "id": "01a1cd62-dd97-75b8-b63e-0b72fa6f246c",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/seHRWQD60Xma.jpg",
               "sortOrder": 3,
               "description": "",
@@ -847,7 +847,7 @@
               "blockId": null
             },
             {
-              "id": "01a1cd54-fe16-7051-86b3-1c922e5c1912",
+              "id": "01a1cd62-dd97-77ee-bde8-126d0178e1fc",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/n7PaDSykNcrh.jpg",
               "sortOrder": 4,
               "description": "",
@@ -855,7 +855,7 @@
               "blockId": null
             },
             {
-              "id": "01a1cd54-fe16-77e5-8ab9-54ad250e4dfe",
+              "id": "01a1cd62-dd97-7ff9-9ad6-45ed227f97ac",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/2x5NAlCorPG7.jpg",
               "sortOrder": 5,
               "description": "",
@@ -863,7 +863,7 @@
               "blockId": null
             },
             {
-              "id": "01a1cd54-fe16-7e3e-b389-98ef56f5bc2d",
+              "id": "01a1cd62-dd98-74be-be71-e96995014450",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/YVMGzyP7XWsE.jpg",
               "sortOrder": 6,
               "description": "",
@@ -871,7 +871,7 @@
               "blockId": null
             },
             {
-              "id": "01a1cd54-fe17-70d4-b68b-44b50796c048",
+              "id": "01a1cd62-dd98-7796-8036-42641d0ad0b1",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/OUS2myfCjXV9.jpg",
               "sortOrder": 7,
               "description": "",
@@ -951,7 +951,7 @@
         {
           "thumbnail": [
             {
-              "id": "01a1cd54-faf3-758d-8b00-e5ec25b39afd",
+              "id": "01a1cd62-dac1-7041-bd50-d9bc09eecf61",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/y5asNUd6lBGF.jpg",
               "sortOrder": 1,
               "description": "",
@@ -961,7 +961,7 @@
           ],
           "interior": [
             {
-              "id": "01a1cd54-faf7-7523-abab-7ffcde030339",
+              "id": "01a1cd62-dacc-7afa-8813-ee6da9821354",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/hwKtWLfNljGn.jpg",
               "sortOrder": 2,
               "description": "",
@@ -969,7 +969,7 @@
               "blockId": null
             },
             {
-              "id": "01a1cd54-faf7-7c38-9032-3532a716a29f",
+              "id": "01a1cd62-dacd-73e8-9e9e-85f098f773cf",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/iMcTabeqVhUP.jpg",
               "sortOrder": 3,
               "description": "",
@@ -977,7 +977,7 @@
               "blockId": null
             },
             {
-              "id": "01a1cd54-faf7-7e1a-bc94-75daf57ecb19",
+              "id": "01a1cd62-dacd-7da6-931c-4288e8dd92ca",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/rlZx7CNItE5X.jpg",
               "sortOrder": 4,
               "description": "",
@@ -985,7 +985,7 @@
               "blockId": null
             },
             {
-              "id": "01a1cd54-faf8-726b-b892-09dc6fd71f43",
+              "id": "01a1cd62-dacf-7813-ba18-e9e7a8219f45",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/hfiXZ53AwzyK.jpg",
               "sortOrder": 5,
               "description": "",
@@ -993,7 +993,7 @@
               "blockId": null
             },
             {
-              "id": "01a1cd54-faf8-764b-8890-9b107f1509f9",
+              "id": "01a1cd62-dacf-7d52-b75e-b483708b1c4e",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/SJOcX0KqmYZn.jpg",
               "sortOrder": 6,
               "description": "",
@@ -1001,7 +1001,7 @@
               "blockId": null
             },
             {
-              "id": "01a1cd54-fb1c-788c-a565-226dbf0bd248",
+              "id": "01a1cd62-dad0-73ca-b6c3-7bf2a0ecf322",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/08/o1AEKPxqL9yT.jpg",
               "sortOrder": 7,
               "description": "",
